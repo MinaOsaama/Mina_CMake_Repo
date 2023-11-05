@@ -1,0 +1,2 @@
+/home/mina/Documents/CMake_project/Mina_CMake_Repo/lib/CMakeFiles/edit_cache.dir
+/home/mina/Documents/CMake_project/Mina_CMake_Repo/lib/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+   text	   data	    bss	    dec	    hex	filename
+   2774	      0	      0	   2774	    ad6	Snake_effect.elf
+   text	   data	    bss	    dec	    hex	filename
+      0	   2774	      0	   2774	    ad6	snake_effect.hex
